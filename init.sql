@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS notite (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    continut TEXT
+);
